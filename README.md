@@ -1,6 +1,6 @@
-[![Latest Stable Version](https://poser.pugx.org/payerurl/telegrambot-crypto-payment-instant-payout/v/stable)](https://packagist.org/packages/payerurl/telegrambot-crypto-payment-instant-payout)
-[![Total Downloads](https://poser.pugx.org/payerurl/telegrambot-crypto-payment-instant-payout/downloads)](https://packagist.org/packages/payerurl/telegrambot-crypto-payment-instant-payout)
-[![License](https://poser.pugx.org/payerurl/telegrambot-crypto-payment-instant-payout/license)](https://packagist.org/packages/payerurl/telegrambot-crypto-payment-instant-payout)
+[![Latest Version](https://img.shields.io/packagist/v/payerurl/telegrambot-crypto-payment-instant-payout?include_prereleases)](https://packagist.org/packages/payerurl/telegrambot-crypto-payment-instant-payout)
+[![Total Downloads](https://img.shields.io/packagist/dt/payerurl/telegrambot-crypto-payment-instant-payout)](https://packagist.org/packages/payerurl/telegrambot-crypto-payment-instant-payout)
+[![License](https://img.shields.io/packagist/l/payerurl/telegrambot-crypto-payment-instant-payout)](https://packagist.org/packages/payerurl/telegrambot-crypto-payment-instant-payout)
 # 🪙 Crypto gateway || Telegram API (no merchant account needed) || all instant payout
 Laravel SDK to connecting payerurl API . 
 

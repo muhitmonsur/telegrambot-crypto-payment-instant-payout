@@ -57,15 +57,6 @@ If Composer reports that no version matches `minimum-stability (stable)`, instal
 composer require payerurl/telegrambot-crypto-payment-instant-payout:dev-main
 ```
 
-This allows the development version of this package without changing your application's global `minimum-stability`. The package's own `minimum-stability` setting does not override the application's setting.
-
-For maintainers: Composer derives stable versions from Git tags. After validating and testing the release commit, publish an unused stable tag (for example, `v1.0.0`) and ensure Packagist indexes it:
-
-```bash
-git tag -a v1.0.0 -m "Release v1.0.0"
-git push origin v1.0.0
-```
-
 Once Packagist lists that stable release, the installation command without `:dev-main` can resolve it. Do not add a hardcoded `version` field to `composer.json` for a Git-tagged package.
 
 ### PHP curl warning
